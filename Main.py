@@ -1,0 +1,12 @@
+question = [
+    ["What is the color of the sky?","Green","Blue","Red","Yellow",2]
+    ["How many legs does a cat have?","Two","Four","Six","Eight",2]
+    ["What do bees make?","Milk","Honey","Water","Bread",2]
+    ["Which shape has three sides?","Square","Circle","Triangle","Rectangle",3]
+    ["What is the opposite of hot?","Cold","Warm","Boiling","Spicy",1]
+    ["Which animal barks?","Cat","Cow","Dog","Sheep",3]
+    ["What is 2 + 2?","3","4","5","6",2]
+    ["What color are bananas?","Red","Blue","Yellow","Purple",3]
+    ["Which planet do we live on?","Mars","Earth","Venus","Jupiter",2]
+    ["What do you use to write on paper?","Spoon","Pencil","Plate","Cup",2]
+]
