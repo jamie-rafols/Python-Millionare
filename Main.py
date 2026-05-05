@@ -30,5 +30,6 @@ for question in questions:
         print("Try again")
         break
     
-    print(f"You won{prizes[i]}")
     i +=1
+    
+print(f"You won {prizes[i]}")
