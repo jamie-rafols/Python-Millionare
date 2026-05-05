@@ -20,4 +20,11 @@ for question in questions:
     print(f"d. {question[4]}")
     
     
-    a = int(input("Enter a number 1 for a, 2 for b, 3 for c and 4 for d"))
+    a = int(input("Enter a number 1 for a, 2 for b, 3 for c and 4 for d: "))
+    
+    if(question[5] == a):
+        print("Correct answer")
+    else:
+        print(f"Incorrect, the answer was {question[5]}")
+        print("Try again")
+        break
