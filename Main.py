@@ -11,7 +11,8 @@ questions = [
     ["What do you use to write on paper?","Spoon","Pencil","Plate","Cup",2]
 ]
 
-
+prizes = [10000,20000,30000,40000,50000,60000,70000,80000,90000,100000]
+i = 0
 for question in questions:
     print(question[0])
     print(f"a. {question[1]}")
@@ -28,3 +29,6 @@ for question in questions:
         print(f"Incorrect, the answer was {question[5]}")
         print("Try again")
         break
+    
+    print(f"You won{prizes[i]}")
+    i +=1
